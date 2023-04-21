@@ -31,7 +31,7 @@ global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
 global.themeemoji = "♥" //ur theme emoji
 global.packname = "⍣الجزار الوزير يروحي⍣" //ur sticker watermark packname
 global.author = "⍣967772146343⍣" //ur sticker watermark author
-global.wm = "❤️MＥＤＯＲＩＡ ᗷOT❤️." //ur watermark
+global.wm = "❤️MＥＤＯＲＩ.Ａ ᗷOT❤️." //ur watermark
 
 // Other
 global.sessionName = 'session'
